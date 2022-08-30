@@ -1,0 +1,1 @@
+export const showText = (text) => console.log(text)
